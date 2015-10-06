@@ -1,0 +1,773 @@
+[31mERRO[0m[0013] Get http://www.zhihu.com/question/21274267/answer/48153925: read tcp 222.161.220.33:80: connection reset by peer 
+[31mERRO[0m[0084] Get http://www.zhihu.com/roundtable/loneliness/botongli/answers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0084] Get http://www.zhihu.com/roundtable/loneliness/dong-ji-zai-hang-zhou/answers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0084] Get http://www.zhihu.com/roundtable/loneliness/feng-dan-tong-53/answers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0084] Get http://www.zhihu.com/roundtable/loneliness/lisongwei/answers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0084] Get http://www.zhihu.com/roundtable/loneliness/ren-shu-zheng/answers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0183] use of closed network connection             
+[31mERRO[0m[0183] use of closed network connection             
+[31mERRO[0m[0183] use of closed network connection             
+[31mERRO[0m[0183] use of closed network connection             
+[31mERRO[0m[0183] use of closed network connection             
+[31mERRO[0m[0183] Get http://www.zhihu.com/people/pam_phy: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0193] Get http://www.zhihu.com/question/20220067/answer/57478466: use of closed network connection 
+[31mERRO[0m[0193] Get http://www.zhihu.com/people/yu-chun-5-53: use of closed network connection 
+[31mERRO[0m[0193] Get http://www.zhihu.com/question/28932627/answer/42640047: use of closed network connection 
+[31mERRO[0m[0193] Get http://www.zhihu.com/people/li-chao-35-90-9: use of closed network connection 
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0203] use of closed network connection             
+[31mERRO[0m[0259] use of closed network connection             
+[31mERRO[0m[0259] use of closed network connection             
+[31mERRO[0m[0259] use of closed network connection             
+[31mERRO[0m[0260] use of closed network connection             
+[31mERRO[0m[0260] use of closed network connection             
+[31mERRO[0m[0260] Get http://www.zhihu.com/people/yue-yi-58: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0260] Get http://www.zhihu.com/question/36203923/answer/66404760: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0260] Get http://www.zhihu.com/people/li-long-tao: use of closed network connection 
+[31mERRO[0m[0260] Get http://www.zhihu.com/question/36203923/answer/66561452: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0260] Get http://www.zhihu.com/people/chen-xu-rong-92: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0260] Get http://www.zhihu.com/question/36203923/answer/66554040: use of closed network connection 
+[31mERRO[0m[0260] Get http://www.zhihu.com/people/chen-guang-19-2: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0260] Get http://www.zhihu.com/people/ren-de-43: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0260] use of closed network connection             
+[31mERRO[0m[0260] use of closed network connection             
+[31mERRO[0m[0260] use of closed network connection             
+[31mERRO[0m[0260] use of closed network connection             
+[31mERRO[0m[0261] Get http://www.zhihu.com/people/qiu-tian-de-yu-48: use of closed network connection 
+[31mERRO[0m[0261] Get http://www.zhihu.com/people/lu-qian-xie-95: use of closed network connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/eric-chow-59: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/jia-tai-lan: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/36203923/answer/66445643: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/ha-luo-mi-shi: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/ge-xiang-85: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/36203923/answer/66498120: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/gui-qu-lai-xi: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/hu-jin-cheng-96-64: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/36203923/answer/66577996: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/wu-wang-ni-gu-la-si-_zhao-si: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/36203923/answer/66496602: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/20344337: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/zhong-you-28/about: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/inbox/4448834200: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/zhong-you-28/asks: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/zhong-you-28/answers: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/zhong-you-28/posts: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/zhong-you-28/collections: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/zhong-you-28/logs: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/35951461/answer/65486582: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/hu-feng-yuan-22: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/29964630/answer/46268555: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/chen-xuan-xu-86: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/36145126/answer/66253680: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/wang-ming-85-76: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/zan-mei-yu-28: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/33695933/answer/57527570: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/ding-ling-yun: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/lu-gui-chen-26: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/30470409/answer/48776208: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/ci-la-4: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/li-yan-yan-96-55: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/li-jia-xiao-6: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/question/22326950/answer/34005853: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/he-wei-xian: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0262] Get http://www.zhihu.com/people/lu-ze-heng-22: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0263] use of closed network connection             
+[31mERRO[0m[0263] use of closed network connection             
+[31mERRO[0m[0263] use of closed network connection             
+[31mERRO[0m[0265] Get http://www.zhihu.com/people/liping-guo-9: use of closed network connection 
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] Get http://zhihu.com?next=%2Fpeople%2Fzhong-you-28%2Ffollowers: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/people/mi-sai-si: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/people/b4956ec0d405d365f0937bdc202e74d4: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/question/27038655/answer/35051441: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/people/jiang-dui-kun: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/people/pan-wen-96: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/people/howard-dominic: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/people/xie-yan-42-88: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] Get http://www.zhihu.com/people/zhong-you-28/columns/followed: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0266] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0267] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0268] use of closed network connection             
+[31mERRO[0m[0269] Get http://www.zhihu.com/question/20013692: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0269] Get http://www.zhihu.com/question/20199627: use of closed network connection 
+[31mERRO[0m[0269] Get http://www.zhihu.com/question/19764771: use of closed network connection 
+[31mERRO[0m[0269] use of closed network connection             
+[31mERRO[0m[0269] Get http://www.zhihu.com/people/hong-guan-jing-ji-suan-ming-shi: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0269] use of closed network connection             
+[31mERRO[0m[0269] use of closed network connection             
+[31mERRO[0m[0272] Get http://www.zhihu.com/people/xu-yi-dong-98: use of closed network connection 
+[31mERRO[0m[0272] use of closed network connection             
+[31mERRO[0m[0272] use of closed network connection             
+[31mERRO[0m[0272] Get http://www.zhihu.com/?next=%2Fpeople%2Fsi-si-jiu%2Ffollowers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0272] use of closed network connection             
+[31mERRO[0m[0272] Get http://zhihu.com?next=%2Fpeople%2Fsi-si-jiu%2Ftopics: read tcp 54.223.189.245:80: use of closed network connection 
+[31mERRO[0m[0273] Get http://www.zhihu.com/?next=%2Fquestion%2F21253531%2Fanswer%2F53881277%2Fcollections: use of closed network connection 
+[31mERRO[0m[0273] Get http://www.zhihu.com/question/29743102/answer/56533041: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0273] Get http://www.zhihu.com/?next=%2Finbox%2F8643154000: use of closed network connection 
+[31mERRO[0m[0273] Get http://www.zhihu.com/?next=%2Fcollection%2F29854704%2Ffollowers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0273] use of closed network connection             
+[31mERRO[0m[0273] use of closed network connection             
+[31mERRO[0m[0273] use of closed network connection             
+[31mERRO[0m[0273] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] Get http://www.zhihu.com/people/yin-he-tie-dao-zhi-ye-66: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0276] Get http://www.zhihu.com/people/ou-shi-nan-29: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0276] Get http://www.zhihu.com/people/huang-xi-81: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0276] Get http://www.zhihu.com/people/rosecrimson/followees: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0276] Get http://www.zhihu.com/people/rosecrimson/columns/followed: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0276] Get http://www.zhihu.com/people/rosecrimson/topics: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0276] Get http://www.zhihu.com/topic/19596590: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0276] Get http://www.zhihu.com/question/20523866/answer/36036319: use of closed network connection 
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0276] use of closed network connection             
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] Get http://www.zhihu.com/?next=%2Fpeople%2Fsi-si-jiu%2Ffollowees: use of closed network connection 
+[31mERRO[0m[0277] Get http://www.zhihu.com/topic/19571921: use of closed network connection 
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] use of closed network connection             
+[31mERRO[0m[0277] Get http://www.zhihu.com/question/20523866/answer/41255094: use of closed network connection 
+[31mERRO[0m[0277] Get http://www.zhihu.com/people/Dominate-F: use of closed network connection 
+[31mERRO[0m[0277] Get http://www.zhihu.com/question/20523866/answer/42363396: use of closed network connection 
+[31mERRO[0m[0277] Get http://www.zhihu.com/people/yolala-li: use of closed network connection 
+[31mERRO[0m[0278] Get http://www.zhihu.com/question/20523866/answer/42426377: use of closed network connection 
+[31mERRO[0m[0278] Get http://www.zhihu.com/question/19915953: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] Get http://www.zhihu.com/people/xiaoyanger: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/question/20523866/answer/33585745: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/people/jessie-lee-31: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/question/20523866/answer/24682024: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/people/jaykangta: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/people/smith-ren-si: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/question/20523866/answer/22792948: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/people/he-huan-33-46: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] Get http://www.zhihu.com/people/xiao-de-33: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0280] use of closed network connection             
+[31mERRO[0m[0281] use of closed network connection             
+[31mERRO[0m[0283] Get http://www.zhihu.com/question/19852767/answer/66438585: use of closed network connection 
+[31mERRO[0m[0283] Get http://www.zhihu.com/?next=%2Fpeople%2Fzhan-zhao-mao-keng%2Ftopics: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0283] Get http://www.zhihu.com/?next=%2Finbox%2F1411384200: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0288] use of closed network connection             
+[31mERRO[0m[0288] Get http://zhihu.com?next=%2Fpeople%2Fhe-zhi-qiang-80%2Ffollowers: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0288] Get http://zhihu.com?next=%2Fpeople%2Fhe-zhi-qiang-80%2Fasks: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0288] Get http://zhihu.com?next=%2Fpeople%2Fyilin-wang-38%2Ffollowees: read tcp 54.223.189.245:80: use of closed network connection 
+[31mERRO[0m[0288] Get http://www.zhihu.com/question/21304670: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0288] Get http://www.zhihu.com/question/21856469: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0288] Get http://www.zhihu.com/question/20257167: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0288] Get http://www.zhihu.com/question/20262267: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0288] Get http://www.zhihu.com/people/zhaozhao-94: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] Get http://www.zhihu.com/people/xi-yue-24-13: use of closed network connection 
+[31mERRO[0m[0289] Get http://www.zhihu.com/people/he-zhi-qiang-80/answers: use of closed network connection 
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0289] Get http://zhihu.com?next=%2Fcollection%2F20615676%2Ffollowers: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0289] Get http://www.zhihu.com/people/wei-hao-35-16: use of closed network connection 
+[31mERRO[0m[0289] Get http://www.zhihu.com/?next=%2Fpeople%2Fyilin-wang-38%2Flogs: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0289] Get http://www.zhihu.com/people/zheng-zhong-76-23: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0289] use of closed network connection             
+[31mERRO[0m[0290] Get http://www.zhihu.com/people/chu-zi-qing: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0292] use of closed network connection             
+[31mERRO[0m[0293] Get http://www.zhihu.com/?next=%2Fpeople%2Fxiao-bai-da-guai-shou%2Fabout: use of closed network connection 
+[31mERRO[0m[0293] Get http://www.zhihu.com/?next=%2Fpeople%2Fxiao-bai-da-guai-shou%2Flogs: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0294] use of closed network connection             
+[31mERRO[0m[0294] use of closed network connection             
+[31mERRO[0m[0295] Get http://www.zhihu.com/?next=%2Fquestion%2F24074456%2Fanswer%2F55447128%2Fcollections: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0295] Get http://www.zhihu.com/?next=%2Fcollection%2F20185125%2Ffollowers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0349] use of closed network connection             
+[31mERRO[0m[0356] use of closed network connection             
+[31mERRO[0m[0356] Get http://zhihu.com?next=%2Fcollection%2F28362442%2Ffollowers: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0356] Get http://zhihu.com?next=%2Fcollection%2F19954928%2Ffollowers: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0356] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] Get http://www.zhihu.com/people/cen-shan-ji: use of closed network connection 
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0357] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] Get http://www.zhihu.com/people/zhang-xian-sen-h: use of closed network connection 
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] Get http://www.zhihu.com/question/27650387/answer/61559392: use of closed network connection 
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0358] use of closed network connection             
+[31mERRO[0m[0360] Get http://www.zhihu.com/people/e-ming-yang: use of closed network connection 
+[31mERRO[0m[0360] Get http://www.zhihu.com/people/li-mei-zhen: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0360] Get http://www.zhihu.com/people/cheng-ji-rui: use of closed network connection 
+[31mERRO[0m[0360] Get http://www.zhihu.com/question/25997792/answer/31860060: use of closed network connection 
+[31mERRO[0m[0360] Get http://www.zhihu.com/people/liu-geng-1Q93: use of closed network connection 
+[31mERRO[0m[0361] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] Get http://www.zhihu.com/topic/19551603: use of closed network connection 
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] Get http://www.zhihu.com/people/li-wen-qi-64: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0362] Get http://www.zhihu.com/people/ju-lu-lu-43/answers: use of closed network connection 
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0362] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] Get http://www.zhihu.com/people/chen-wu-bin-38/columns/followed: use of closed network connection 
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] use of closed network connection             
+[31mERRO[0m[0363] Get http://zhihu.com?next=%2Fpeople%2Fju-lu-lu-43%2Fabout: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0363] Get http://zhihu.com?next=%2Finbox%2F3734997500: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0363] Get http://zhihu.com?next=%2Fpeople%2Fju-lu-lu-43%2Flogs: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0364] Get http://www.zhihu.com/people/hu-jing-si-91: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0364] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] Get http://zhihu.com?next=%2Fpeople%2Fju-lu-lu-43%2Fcolumns%2Ffollowed: use of closed network connection 
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0365] use of closed network connection             
+[31mERRO[0m[0366] use of closed network connection             
+[31mERRO[0m[0366] use of closed network connection             
+[31mERRO[0m[0366] use of closed network connection             
+[31mERRO[0m[0366] Get http://www.zhihu.com/people/harry-huang-32: use of closed network connection 
+[31mERRO[0m[0366] Get http://www.zhihu.com/question/35932798/answer/65182085: use of closed network connection 
+[31mERRO[0m[0367] use of closed network connection             
+[31mERRO[0m[0367] use of closed network connection             
+[31mERRO[0m[0367] use of closed network connection             
+[31mERRO[0m[0367] use of closed network connection             
+[31mERRO[0m[0367] use of closed network connection             
+[31mERRO[0m[0367] use of closed network connection             
+[31mERRO[0m[0367] Get http://www.zhihu.com/people/dou-jiang-47: use of closed network connection 
+[31mERRO[0m[0368] Get http://www.zhihu.com/people/xie-qing-jian/followees: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0368] Get http://www.zhihu.com/people/xie-qing-jian/followers: use of closed network connection 
+[31mERRO[0m[0368] Get http://www.zhihu.com/people/xie-qing-jian/columns/followed: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0368] Get http://www.zhihu.com/?next=%2Fpeople%2Fchen-wu-bin-38%2Ftopics: use of closed network connection 
+[31mERRO[0m[0368] Get http://www.zhihu.com/question/35800628/answer/66104088: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0368] use of closed network connection             
+[31mERRO[0m[0368] use of closed network connection             
+[31mERRO[0m[0368] use of closed network connection             
+[31mERRO[0m[0369] Get http://www.zhihu.com/people/liu-yun-39-48: use of closed network connection 
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] use of closed network connection             
+[31mERRO[0m[0369] Get http://www.zhihu.com/question/20715561/answer/37494564: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0369] Get http://www.zhihu.com/question/20715561/answer/34516914: use of closed network connection 
+[31mERRO[0m[0370] Get http://www.zhihu.com/people/xiong-mao-lao-shi: use of closed network connection 
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0370] use of closed network connection             
+[31mERRO[0m[0371] use of closed network connection             
+[31mERRO[0m[0371] use of closed network connection             
+[31mERRO[0m[0371] use of closed network connection             
+[31mERRO[0m[0371] use of closed network connection             
+[31mERRO[0m[0371] use of closed network connection             
+[31mERRO[0m[0371] use of closed network connection             
+[31mERRO[0m[0371] use of closed network connection             
+[31mERRO[0m[0371] Get http://www.zhihu.com/people/lin-xiang-80-39: use of closed network connection 
+[31mERRO[0m[0372] use of closed network connection             
+[31mERRO[0m[0372] use of closed network connection             
+[31mERRO[0m[0372] use of closed network connection             
+[31mERRO[0m[0372] use of closed network connection             
+[31mERRO[0m[0372] use of closed network connection             
+[31mERRO[0m[0372] use of closed network connection             
+[31mERRO[0m[0373] Get http://www.zhihu.com/people/jiang-jun-21-40: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0373] Get http://www.zhihu.com/question/20498523/answer/15295857: use of closed network connection 
+[31mERRO[0m[0373] Get http://www.zhihu.com/question/20498523/answer/15297509: use of closed network connection 
+[31mERRO[0m[0373] use of closed network connection             
+[31mERRO[0m[0373] Get http://www.zhihu.com/people/zhkzyth: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0373] Get http://www.zhihu.com/people/dusty-star/collections: use of closed network connection 
+[31mERRO[0m[0373] Get http://www.zhihu.com/people/dusty-star/logs: use of closed network connection 
+[31mERRO[0m[0373] Get http://www.zhihu.com/?next=%2Fpeople%2Fxian-bu-er-73: use of closed network connection 
+[31mERRO[0m[0373] use of closed network connection             
+[31mERRO[0m[0373] use of closed network connection             
+[31mERRO[0m[0373] Get http://www.zhihu.com/people/song-qing-11: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0373] Get http://www.zhihu.com/people/hongyan-yu: use of closed network connection 
+[31mERRO[0m[0374] Get http://www.zhihu.com/people/hao-yu-97-82: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0374] Get http://www.zhihu.com/people/tuyangsentupo: use of closed network connection 
+[31mERRO[0m[0376] Get http://zhihu.com?next=%2Fpeople%2Fdusty-star%2Ftopics: read tcp 54.223.189.245:80: use of closed network connection 
+[31mERRO[0m[0376] use of closed network connection             
+[31mERRO[0m[0376] use of closed network connection             
+[31mERRO[0m[0376] use of closed network connection             
+[31mERRO[0m[0376] use of closed network connection             
+[31mERRO[0m[0376] use of closed network connection             
+[31mERRO[0m[0376] use of closed network connection             
+[31mERRO[0m[0376] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] Get http://www.zhihu.com/collection/54399912: use of closed network connection 
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0377] use of closed network connection             
+[31mERRO[0m[0378] use of closed network connection             
+[31mERRO[0m[0378] use of closed network connection             
+[31mERRO[0m[0378] Get http://www.zhihu.com/people/dongxu-wang: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0378] Get http://www.zhihu.com/collection/20837444/followers: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0378] Get http://www.zhihu.com/people/zhan-tian-43: use of closed network connection 
+[31mERRO[0m[0378] Get http://www.zhihu.com/people/tao-si-qin-7: use of closed network connection 
+[31mERRO[0m[0378] Get http://www.zhihu.com/people/tong-kai-59: use of closed network connection 
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] Get http://zhihu.com?next=%2Finbox%2F3642386900: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0379] Get http://zhihu.com?next=%2Fpeople%2Fzou-yi-chen-51%2Flogs: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0379] Get http://zhihu.com?next=%2Fpeople%2Fzou-yi-chen-51%2Fabout: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0379] Get http://zhihu.com?next=%2Fpeople%2Fkuai-gan-79#signin: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] Get http://www.zhihu.com/people/zhang-ting-78-97: use of closed network connection 
+[31mERRO[0m[0379] Get http://www.zhihu.com/people/jiang-da-rui-21: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0379] Get http://www.zhihu.com/people/jiang-si-han-50-62: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0379] Get http://www.zhihu.com/people/caishangtianxia1/asks: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] Get http://www.zhihu.com/people/feiyang-gu: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0379] Get http://www.zhihu.com/question/21042724/answer/22342996: use of closed network connection 
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0379] use of closed network connection             
+[31mERRO[0m[0380] Get http://www.zhihu.com/question/21042724/answer/22371658: use of closed network connection 
+[31mERRO[0m[0380] Get http://www.zhihu.com/people/teastain: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0385] Get http://www.zhihu.com/?next=%2Fpeople%2Fli-yuandi%2Ftopics: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0385] Get http://www.zhihu.com/question/20482563: use of closed network connection 
+[31mERRO[0m[0385] Get http://zhihu.com?next=%2Fpeople%2Fzhou-jian-4-58%2Flogs: read tcp 54.223.189.245:80: use of closed network connection 
+[31mERRO[0m[0385] Get http://zhihu.com?next=%2Fpeople%2Fzhou-jian-4-58%2Ffollowees: read tcp 54.223.189.245:80: use of closed network connection 
+[31mERRO[0m[0385] Get http://zhihu.com?next=%2Fpeople%2Fzhou-jian-4-58%2Ftopics: read tcp 54.223.189.245:80: use of closed network connection 
+[31mERRO[0m[0385] use of closed network connection             
+[31mERRO[0m[0385] use of closed network connection             
+[31mERRO[0m[0385] use of closed network connection             
+[31mERRO[0m[0385] use of closed network connection             
+[31mERRO[0m[0385] use of closed network connection             
+[31mERRO[0m[0386] use of closed network connection             
+[31mERRO[0m[0387] use of closed network connection             
+[31mERRO[0m[0387] use of closed network connection             
+[31mERRO[0m[0387] use of closed network connection             
+[31mERRO[0m[0387] Get http://www.zhihu.com/question/22423057/answer/66450974: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0388] Get http://www.zhihu.com/people/zheng-yang-6-9: use of closed network connection 
+[31mERRO[0m[0388] use of closed network connection             
+[31mERRO[0m[0388] Get http://www.zhihu.com/people/xue-ding-e-ta-ge-qmq: use of closed network connection 
+[31mERRO[0m[0388] use of closed network connection             
+[31mERRO[0m[0388] Get http://zhihu.com?next=%2Fpeople%2Fjustin.yu%2Fanswers: use of closed network connection 
+[31mERRO[0m[0388] use of closed network connection             
+[31mERRO[0m[0388] use of closed network connection             
+[31mERRO[0m[0389] Get http://www.zhihu.com/people/yang-xing-mei-shao-nian: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0389] use of closed network connection             
+[31mERRO[0m[0389] use of closed network connection             
+[31mERRO[0m[0389] Get http://www.zhihu.com/?next=%2Fpeople%2Fjustin.yu%2Fasks: use of closed network connection 
+[31mERRO[0m[0389] Get http://www.zhihu.com/question/30443229/answer/48343303: use of closed network connection 
+[31mERRO[0m[0389] Get http://www.zhihu.com/?next=%2Fpeople%2Fkandy_kaidi%2Flogs: use of closed network connection 
+[31mERRO[0m[0389] Get http://zhihu.com?next=%2Fcollection%2F31798526%2Ffollowers: use of closed network connection 
+[31mERRO[0m[0390] use of closed network connection             
+[31mERRO[0m[0437] Get http://www.zhihu.com/?next=%2Fpeople%2Fkandy_kaidi%2Ffollowees: EOF 
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0440] use of closed network connection             
+[31mERRO[0m[0444] Get http://www.zhihu.com/people/norma-jane: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0444] Get http://www.zhihu.com/question/24851872: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0444] Get http://www.zhihu.com/collection/19552499/followers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0444] Get http://zhihu.com?next=%2Fpeople%2Famuro1230%2Ffollowers: use of closed network connection 
+[31mERRO[0m[0444] use of closed network connection             
+[31mERRO[0m[0444] use of closed network connection             
+[31mERRO[0m[0444] Get http://www.zhihu.com/question/27003837/answer/34879373: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0444] use of closed network connection             
+[31mERRO[0m[0444] use of closed network connection             
+[31mERRO[0m[0444] use of closed network connection             
+[31mERRO[0m[0444] use of closed network connection             
+[31mERRO[0m[0444] Get http://www.zhihu.com/question/35476914/answer/62945934: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0445] use of closed network connection             
+[31mERRO[0m[0445] Get http://www.zhihu.com/question/23059775: use of closed network connection 
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] use of closed network connection             
+[31mERRO[0m[0447] Get http://www.zhihu.com/people/ye-xing-zhe-65: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] use of closed network connection             
+[31mERRO[0m[0448] Get http://www.zhihu.com/people/er-shi-yihua-sheng-32: use of closed network connection 
+[31mERRO[0m[0448] Get http://www.zhihu.com/?next=%2Fcollection%2F19960298%2Ffollowers: use of closed network connection 
+[31mERRO[0m[0448] Get http://www.zhihu.com/people/wang-xiao-xian-75: use of closed network connection 
+[31mERRO[0m[0448] Get http://zhihu.com?next=%2Finbox%2F1046324000: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] Get http://www.zhihu.com/question/35005512/answer/65618293: use of closed network connection 
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] use of closed network connection             
+[31mERRO[0m[0452] Get http://www.zhihu.com/people/feng-ye-2-71: use of closed network connection 
+[31mERRO[0m[0453] Get http://zhihu.com?next=%2Fpeople%2Fevenstar%2Fcolumns%2Ffollowed: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0453] Get http://www.zhihu.com/?next=%2Fpeople%2Fevenstar%2Ftopics: use of closed network connection 
+[31mERRO[0m[0453] Get http://www.zhihu.com/?next=%2Finbox%2F3642594000: use of closed network connection 
+[31mERRO[0m[0453] Get http://www.zhihu.com/?next=%2Fquestion%2F35492673: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0453] Get http://www.zhihu.com/people/Changmingwei: use of closed network connection 
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] Get http://www.zhihu.com/people/min-erin: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] use of closed network connection             
+[31mERRO[0m[0453] Get http://www.zhihu.com/people/qian-duo-duo-39-79: use of closed network connection 
+[31mERRO[0m[0454] Get http://www.zhihu.com/question/20721170: use of closed network connection 
+[31mERRO[0m[0457] Get http://www.zhihu.com/?next=%2Fpeople%2Fdennis-ma%2Ffollowers: use of closed network connection 
+[31mERRO[0m[0457] use of closed network connection             
+[31mERRO[0m[0457] use of closed network connection             
+[31mERRO[0m[0457] use of closed network connection             
+[31mERRO[0m[0458] use of closed network connection             
+[31mERRO[0m[0458] use of closed network connection             
+[31mERRO[0m[0458] Get http://www.zhihu.com/question/20594422/answer/36543406: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0458] Get http://www.zhihu.com/people/wu-xylon: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0458] Get http://www.zhihu.com/people/wangmingwei: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0458] Get http://www.zhihu.com/people/zhou-yun-46: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0458] Get http://www.zhihu.com/people/ma-lie: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0458] Get http://www.zhihu.com/people/chi-wan-11: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0458] use of closed network connection             
+[31mERRO[0m[0458] use of closed network connection             
+[31mERRO[0m[0458] use of closed network connection             
+[31mERRO[0m[0458] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0459] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0460] Get http://www.zhihu.com/people/tao-wen: use of closed network connection 
+[31mERRO[0m[0460] Get http://www.zhihu.com/people/dong-jin-sheng-20: use of closed network connection 
+[31mERRO[0m[0460] use of closed network connection             
+[31mERRO[0m[0462] Get http://www.zhihu.com/people/QuebecPierre: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0462] Get http://www.zhihu.com/people/ruo-jiu: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0462] Get http://www.zhihu.com/people/liu-ye-11: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0462] Get http://www.zhihu.com/question/24597947/answer/28365464: use of closed network connection 
+[31mERRO[0m[0462] Get http://www.zhihu.com/people/aUcid: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0463] Get http://www.zhihu.com/people/chris-h: http: can't write HTTP request on broken connection 
+[31mERRO[0m[0463] use of closed network connection             
+[31mERRO[0m[0463] use of closed network connection             
+[31mERRO[0m[0463] use of closed network connection             
+[31mERRO[0m[0464] Get http://www.zhihu.com/people/wutongynwa: use of closed network connection 
+[31mERRO[0m[0464] Get http://www.zhihu.com/question/24597947: use of closed network connection 
+[31mERRO[0m[0464] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] Get http://www.zhihu.com/people/uitony: use of closed network connection 
+[31mERRO[0m[0466] Get http://www.zhihu.com/question/20527885/answer/15393895: use of closed network connection 
+[31mERRO[0m[0466] Get http://www.zhihu.com/question/20176547: use of closed network connection 
+[31mERRO[0m[0466] Get http://www.zhihu.com/people/tian-bao: use of closed network connection 
+[31mERRO[0m[0466] Get http://www.zhihu.com/question/20555766: use of closed network connection 
+[31mERRO[0m[0466] Get http://www.zhihu.com/people/rangerzhang: use of closed network connection 
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] Get http://www.zhihu.com/question/20176547/answer/14227756: use of closed network connection 
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0466] use of closed network connection             
+[31mERRO[0m[0469] use of closed network connection             
+[31mERRO[0m[0469] use of closed network connection             
+[31mERRO[0m[0469] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0470] use of closed network connection             
+[31mERRO[0m[0471] Get http://zhihu.com?next=%2Fpeople%2Fxiao-bai-76-17%2Fcolumns%2Ffollowed: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0471] Get http://zhihu.com?next=%2Fpeople%2Fxiao-bai-76-17%2Ftopics: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0471] Get http://zhihu.com?next=%2Finbox%2F7263264100: net/http: request canceled while waiting for connection 
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] Get http://www.zhihu.com/people/lnbxdjh: use of closed network connection 
+[31mERRO[0m[0472] Get http://www.zhihu.com/people/xu-jian-50-78: use of closed network connection 
+[31mERRO[0m[0472] Get http://www.zhihu.com/people/bu-zhi-wei-bu-zhi-7-66: use of closed network connection 
+[31mERRO[0m[0472] Get http://www.zhihu.com/question/28800253/answer/46615765: use of closed network connection 
+[31mERRO[0m[0472] Get http://zhihu.com?next=%2Fpeople%2Fxiao-bai-76-17%2Ffollowers: use of closed network connection 
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0472] use of closed network connection             
+[31mERRO[0m[0473] Get http://www.zhihu.com/people/zhuan-ye-nao-dong-tian-chong: use of closed network connection 
+[31mERRO[0m[0473] Get http://www.zhihu.com/people/zhu-ru-53-33/followers: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0473] Get http://zhihu.com?next=%2Fpeople%2Fzhu-ru-53-33%2Ftopics: read tcp 54.223.189.245:80: use of closed network connection 
+[31mERRO[0m[0473] Get http://www.zhihu.com/question/35681704/answer/63986995: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0473] Get http://www.zhihu.com/people/bai-da-de-bai-da-gua: use of closed network connection 
+[31mERRO[0m[0473] Get http://www.zhihu.com/question/27228594/answer/64196960: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0473] Get http://www.zhihu.com/people/lin-cui: read tcp 222.161.220.33:80: use of closed network connection 
+[31mERRO[0m[0473] Get http://zhihu.com?next=%2Fpeople%2Fzhu-ru-53-33%2Fcolumns%2Ffollowed: use of closed network connection 
+[31mERRO[0m[0473] Get http://www.zhihu.com/?next=%2Fpeople%2Fzhu-ru-53-33%2Flogs: use of closed network connection 
+[31mERRO[0m[0475] use of closed network connection             
+[31mERRO[0m[0475] use of closed network connection             
