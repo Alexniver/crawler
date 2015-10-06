@@ -1,7 +1,6 @@
 package main
 
 import (
-	"alexniver/crawler"
 	"fmt"
 	"io/ioutil"
 	"net/http"
@@ -10,6 +9,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/Alexniver/crawler"
 	"github.com/PuerkitoBio/goquery"
 )
 
