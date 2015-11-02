@@ -1,19 +1,21 @@
 package main
 
 import (
-	"fmt"
+	//"fmt"
 	"io/ioutil"
 	"net/http"
 	"net/url"
-	"strconv"
+	//"strconv"
 	"strings"
 	"time"
 
 	"github.com/Alexniver/crawler"
 	"github.com/PuerkitoBio/goquery"
+	"runtime"
 )
 
 func main() {
+	logger := crawler.GetDefaultLogger()
 
 	crawlFunc := func(spider *crawler.Spider, dataChannel chan *crawler.Spider) error {
 
@@ -33,6 +35,9 @@ func main() {
 			client = &http.Client{Timeout: spider.TTL}
 		}
 
+		logger.Info(spider.Url)
+		logger.Info(spider.Generation)
+		logger.Info(runtime.NumGoroutine())
 		req, err := http.NewRequest(spider.Method, spider.Url, nil)
 		if err != nil {
 			return err
@@ -55,6 +60,7 @@ func main() {
 
 		spider.RequestURL = resp.Request.URL
 		spider.ResponseData = string(body)
+		//logger.Info(spider.ResponseData)
 		go func() {
 			dataChannel <- spider
 		}()
@@ -64,7 +70,6 @@ func main() {
 
 	analystFunc := func(spider *crawler.Spider, spiderChannel chan *crawler.Spider) error {
 
-		logger := crawler.GetDefaultLogger()
 		if len(spider.ResponseData) <= 0 {
 			return nil
 		}
@@ -101,7 +106,7 @@ func main() {
 		})
 
 		//查找赞过万的页面
-		if strings.Index(spider.Url, "question") > 0 && strings.Index(spider.Url, "answer") > 0 {
+		/*if strings.Index(spider.Url, "question") > 0 && strings.Index(spider.Url, "answer") > 0 {
 			doc.Find("span.count").Each(func(i int, s *goquery.Selection) {
 				upCountStr, _ := s.Html()
 				upCountStr = strings.Replace(upCountStr, "K", "000", -1)
@@ -110,11 +115,11 @@ func main() {
 					logger.Error(err)
 				}
 				fmt.Println(upCount)
-				if upCount > 10240 {
+				if upCount > 10000 {
 					logger.Info(spider.Url)
 				}
 			})
-		}
+		}*/
 
 		//fmt.Println("analys end")
 		//zhihu 相关, 如果当前页面是有问有答的, 则尝试拼接评论链接, 加到搜索中
@@ -150,5 +155,7 @@ func main() {
 
 	}
 
-	crawler.DoCrawl("http://www.zhihu.com", crawlFunc, analystFunc, 1000)
+	//crawler.DoCrawl("http://www.mi.com", crawlFunc, analystFunc, 1000)
+	seedSpider := crawler.NewDefaultGetSpider("http://10.236.121.56:8080/admin/page!main.action")
+	crawler.DoCrawl(seedSpider, crawlFunc, analystFunc, 1000)
 }

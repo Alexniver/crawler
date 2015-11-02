@@ -7,7 +7,7 @@ import (
 type SpiderFunc func(spider *Spider, spiderChannel chan *Spider) error
 
 //url:tocrawl url, spiderCrawlFunc: how spiderCrawl, spiderAnalystFunc: how spider deal with response func
-func DoCrawl(url string, spiderCrawlFunc SpiderFunc, spiderAnlystFunc SpiderFunc, maxConcurrencyNum int) {
+func DoCrawl(seedSpider *Spider, spiderCrawlFunc SpiderFunc, spiderAnlystFunc SpiderFunc, maxConcurrencyNum int) {
 	logger := GetDefaultLogger()
 
 	visited := map[string]bool{}
@@ -18,7 +18,7 @@ func DoCrawl(url string, spiderCrawlFunc SpiderFunc, spiderAnlystFunc SpiderFunc
 
 	var wg sync.WaitGroup
 	logger.Info("Crawl start!")
-	seedSpider := NewDefaultGetSpider(url)
+	//seedSpider := NewDefaultGetSpider(url)
 
 	go func() {
 		spiderChannel <- seedSpider
@@ -34,8 +34,9 @@ func DoCrawl(url string, spiderCrawlFunc SpiderFunc, spiderAnlystFunc SpiderFunc
 				select {
 				case spider := <-spiderChannel:
 					if !visited[spider.Url] {
-						//fmt.Println("crawling")
+						//fmt.Println(len(visited))
 						visited[spider.Url] = true
+						//logger.Info(len(visited))
 						err := spiderCrawlFunc(spider, dataChannel)
 						if err != nil {
 							logger.Error(err)
