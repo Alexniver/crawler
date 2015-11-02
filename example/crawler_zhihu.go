@@ -155,7 +155,6 @@ func main() {
 
 	}
 
-	//crawler.DoCrawl("http://www.mi.com", crawlFunc, analystFunc, 1000)
-	seedSpider := crawler.NewDefaultGetSpider("http://10.236.121.56:8080/admin/page!main.action")
+	seedSpider := crawler.NewDefaultGetSpider("http://www.zhihu.com")
 	crawler.DoCrawl(seedSpider, crawlFunc, analystFunc, 1000)
 }
