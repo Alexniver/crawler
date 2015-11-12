@@ -10,12 +10,13 @@ import (
 	"time"
 
 	"github.com/Alexniver/crawler"
+	"github.com/Alexniver/logger4go"
 	"github.com/PuerkitoBio/goquery"
 	"runtime"
 )
 
 func main() {
-	logger := crawler.GetDefaultLogger()
+	logger := logger4go.GetDefaultLogger()
 
 	crawlFunc := func(spider *crawler.Spider, dataChannel chan *crawler.Spider) error {
 

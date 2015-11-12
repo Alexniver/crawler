@@ -1,6 +1,7 @@
 package crawler
 
 import (
+	"github.com/Alexniver/logger4go"
 	"sync"
 )
 
@@ -8,7 +9,7 @@ type SpiderFunc func(spider *Spider, spiderChannel chan *Spider) error
 
 //url:tocrawl url, spiderCrawlFunc: how spiderCrawl, spiderAnalystFunc: how spider deal with response func
 func DoCrawl(seedSpider *Spider, spiderCrawlFunc SpiderFunc, spiderAnlystFunc SpiderFunc, maxConcurrencyNum int) {
-	logger := GetDefaultLogger()
+	logger := logger4go.GetDefaultLogger()
 
 	visited := map[string]bool{}
 
